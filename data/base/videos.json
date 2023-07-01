@@ -11,7 +11,7 @@
         {
             "title": "Video 1",
             "playerLabel": "Video 1",
-            "action": "video:http://msx.benzac.de/plugins/hls.html?url=http://192.168.11.55:55322/video/live/cart.mp4"
+            "action": "video:http://msx.benzac.de/plugins/hls.html?url=https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8"
         },
         {
             "title": "Video 2",
@@ -21,7 +21,7 @@
         {
             "title": "Video 3",
             "playerLabel": "Video 3",
-            "action": "video:http://msx.benzac.de/media/video3.mp4"
+            "action": "video:rtmp://192.168.11.55:55322/video/live/cart.mp4"
         }
     ]
 }

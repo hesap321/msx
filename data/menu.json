@@ -16,6 +16,11 @@
             "data": "https://hesap321.github.io/msx/data/base/videos.json"
         },
         {
+            "icon": "plist",
+            "label": "m3u8",
+            "data": "https://hesap321.github.io/msx/data/base/m3u.json"
+        },
+        {
             "icon": "music-note",
             "label": "Audios",
             "data": "https://benzac-de.github.io/msx/data/base/audios.json"

@@ -11,7 +11,7 @@
         {
             "title": "Video 1",
             "playerLabel": "Video 1",
-            "action": "video:http://192.168.11.55:55322/video/live/cart.mp4"
+            "action": "video:"
         },
         {
             "title": "Video 2",

@@ -7,7 +7,7 @@
         "icon": "msx-white-soft:movie",
         "color": "msx-glass"
     },
-   
+   "items": [
         {
             "title": "Video 2",
             "playerLabel": "Video 2",

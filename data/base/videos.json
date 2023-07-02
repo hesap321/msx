@@ -12,6 +12,11 @@
             "title": "Video 1",
             "playerLabel": "Video 1",
             "action": "video:https://proxygen.odrive.com/download?options=vAS2ZBDhEq8moLIReC79PeP68CeP8l%2BCwcJDOdzAjm2sd9utfVT7Zr7eq7My7T0eMHzHOwOFfHO6NQBHkHPbz7RSGpzEZCxg878AeBHDQafDkBMkm%2BafoF476KgxM7zH3pW3H%2BUEfICLv%2BkgzF72Ox6cp1HcF0eMU8O%2F8A2QqA0sH3YUz%2B4yVSR9h4qAt0LNoaro7vIIDIUrLRYCmI9sxf83ynxwN1npFdkTHj9jdfoReT3PobiVeztX40zDCe%2F6s4D1xGz7BI6nlOD%2F%2FMOMStHw8opKW59LU6jMcDjp13JtR917VLjosWg2S%2FYoFQtugctUIEj5LiXZ97I%2BJbu4SAqrUH0M0ebM67fC1hGksgenK5U9zfUuGCaEVSL5rmxW7%2BL4bnEAq4To5mhALAQITM5f%2FsyZiyxtR0%2FRIU%2Fcj0wYWI6cosZAcfd%2FlcsYyiGnI81P82pXVwNxzMK7TE4pcgjrnoE69iQDwN%2FWxombxx%2B26Naat97vcdh4Pnx4sd7bI0A5%2FYEjFYbdOQU3iVweVHlgfxLO68PT7Sj4L7%2BwSvb4pyAf5pv5%2BKiKKV7IobhJp0gN9%2F2V0STtXLGnkg6a%2Fe%2Fwi5B0x%2Fb%2B6UTR2jq2CQ4NxISZHsOFyBg%2BBt%2Ft%2BqAoISW19%2BSgnNdie7j3s3ODl%2FKMNe9NSCA%2Fwk%2FGXWlTzATReK08l8s0YyhxWDe5EkXl230y%2FCtZBpdloXw6S36kCcFZmrjrTq2mrJTq0wIgD8CrcaK%2Fe835Sa1BePniCyw7bAbwBO7JNsym8qcOHatSmDiIeo12ACIlI%2BtouubSQZbfWTUE%2Fpn9p7fbCKxeB6MfG%2B6UR0biAnsp2Vp%2FFHqnNONfaWh8N4Xr8viPlrj%2FzEMXAQ0K3pHdcY1%2F%2BnEpe2uhhXatEBJCwP3Mn%2FhZi%2Fv346cIpO%2FuPrOfdWNDqSL6ZI%2BvSZh8dm3%2F08pxRzSFZXiEhbaDzcSDjSLk%2BJoSL4pcnOsU5x0riagGQeRRbObe1wM%3D"
+            "properties": {
+                "button:content:icon": "settings",
+                "button:content:action": "panel:request:player:options",	
+                "html5x:subtitle": "de",
+                "html5x:subtitle:de:Deutsch": "{asset:id:video1_de.vtt}",
         },
         {
             "title": "Video 2",

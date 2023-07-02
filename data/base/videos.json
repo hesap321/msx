@@ -24,7 +24,7 @@
             "playerLabel": "Video 3",
             "action": "video:rtmp://192.168.11.55:55322/video/live/cart.mp4"
         },
-        "items": [{
+        {
             "title": "srt",
             "playerLabel": "srt",
             "action": "video:{asset:video:video1.mp4}",
@@ -36,7 +36,7 @@
                 "html5x:subtitle:en:English": "{asset:id:video1_en.vtt}",
                 "html5x:subtitle:es:Español": "{asset:id:video1_es.vtt}"				
             }
-        }]
+        },     
 
         {
             "title": "Video 4",
